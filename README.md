@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola! Soy [Betsa] 👋
 
-<!--
-**betcanillas/betcanillas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **Desarrollo de Aplicaciones Web**. Creé este perfil de GitHub para documentar mi aprendizaje, guardar mis prácticas de clase y ver cómo evoluciono como desarrollador día a día.
 
-Here are some ideas to get you started:
+### 🌱 Dónde estoy ahora mismo:
+* 📖 Cursando el primer año de mi formación web.
+* 💻 Aprendiendo sobre lenguajes de marcas, entornos de desarrollo y la lógica de programación.
+* 🎯 Mi objetivo para este año: Asentar unas buenas bases de código y construir mis primeros proyectos funcionales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías que estoy aprendiendo:
+* **Estructura y Diseño:** HTML5, CSS3
+* **Lógica / Programación:** [JAVA, PYTHON, JAVASCRIPT]
+* **Bases de datos:** [SQL]
+* **Herramientas:** Entendiendo el flujo de trabajo con Git y GitHub
+
