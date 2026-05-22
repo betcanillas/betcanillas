@@ -7,6 +7,8 @@ Soy estudiante de **Desarrollo de Aplicaciones Web**. Creé este perfil de GitHu
 * 💻 Aprendiendo sobre lenguajes de marcas, entornos de desarrollo y la lógica de programación.
 * 🎯 Mi objetivo para este año: Asentar unas buenas bases de código y construir mis primeros proyectos funcionales.
 
+![Código de Programación](https://images.unsplash.com/photo-1542831371-29b0f74f9713?q=80&w=600&auto=format&fit=crop)
+
 ### 🛠️ Tecnologías que estoy aprendiendo:
 * **Estructura y Diseño:** HTML5, CSS3.
 * **Lógica / Programación:** Java, Python, Javascript.
