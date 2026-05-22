@@ -9,7 +9,7 @@ Soy estudiante de **Desarrollo de Aplicaciones Web**. Creé este perfil de GitHu
 
 ### 🛠️ Tecnologías que estoy aprendiendo:
 * **Estructura y Diseño:** HTML5, CSS3.
-* **Lógica / Programación:** JAVA, PYTHON, JAVASCRIPT.
+* **Lógica / Programación:** Java, Python, Javascript.
 * **Bases de datos:** SQL, MYSQL.
 * **Herramientas:** Entendiendo el flujo de trabajo con Git y GitHub.
 * Linux / Windows (Sistemas operativos y gestión de almacenamiento).
